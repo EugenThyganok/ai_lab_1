@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\mine\university\programming\labs\ai_labs\ai_lab_1\ai_lab_1\ai_lab_1\text.h(80): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+d:\mine\university\programming\labs\ai_labs\ai_lab_1\ai_lab_1\ai_lab_1\main.cpp(385): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  ai_lab_1.vcxproj -> D:\mine\University\programming\Labs\ai_labs\ai_lab_1\ai_lab_1\Debug\ai_lab_1.exe
+  ai_lab_1.vcxproj -> D:\mine\University\programming\Labs\ai_labs\ai_lab_1\ai_lab_1\Debug\ai_lab_1.pdb (Partial PDB)
